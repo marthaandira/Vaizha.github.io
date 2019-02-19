@@ -2,20 +2,23 @@
 <html>
 <head>
 	<title>BIODATA</title>
-</head> 
-<h> BIODATA VAIZHA</h>
-<h1> Nama Lengkap : Vaizha Haimalifasati Zuldysjah </h1>
-<h2> Nama Panggilan : Vaizha / Cinta </h2>
-<h2> Alamat : Jln. Raya Tajur Komplek kehutanan Muarasari No. 06 Kelurahan Harjasari, Bogor Selatan.
-<h3> TTL : Sukabumi, 22 Februari 2002 </h3>
-<h3> Hobby : Menari, Mendengarkan Musik </h3>
-<h3> Sekolah:</h3>
-<p> TK : TK Pertiwi Ciawi
-<p> SD : SDN Pakuan Kota Bogor </p>
-<p> SMP: SMPN 7 Kota Bogor </p>
-<p> SMK: SMKN SMAK Bogor </p>
-<h2> Motto Hidup : "SIAP TIDAK SIAP HARUS SIAP"
-<body>
+	
+	<link rel="stylesheet" type="text/css" href="vaizha.css">
 
+</head> 
+<body>
+<h3> BIODATA VAIZHA</h3>
+<h1><li> Nama Lengkap : Vaizha Haimalifasati Zuldysjah </h1>
+<h1><li> Nama Panggilan : Vaizha / Cinta </h1>
+<h1> <li>Alamat : Jln. Raya Tajur Komplek kehutanan Muarasari No. 06 Kelurahan Harjasari, Bogor Selatan.</h1>
+<h2><li> TTL : Sukabumi, 22 Februari 2002 </h2>
+<h2><li>Hobby : Menari, Mendengarkan Musik </h2>
+<h2><li> Sekolah:</h2>
+<p><strong> TK</strong> : TK Pertiwi Ciawi</p>
+<p><strong> SD</strong> : SDN Pakuan Kota Bogor </p>
+<p><strong> SMP</strong>: SMPN 7 Kota Bogor </p>
+<p><strong>SMK</strong>: SMKN SMAK Bogor </p>
+<h2><li>Motto Hidup : "SIAP TIDAK SIAP HARUS SIAP"</h2>
 </body>
+
 </html>
